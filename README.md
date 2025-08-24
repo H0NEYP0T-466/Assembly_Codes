@@ -125,7 +125,7 @@ Pratical#X_task#Y.exe
 
 ## ✨ Features
 
-- 📚 **55 Assembly Programs** - Comprehensive collection covering all basic to advanced assembly concepts
+- 📚 **52 Assembly Programs** - Comprehensive collection covering all basic to advanced assembly concepts
 - 🔢 **Arithmetic Operations** - Addition, subtraction, multiplication with user input
 - 📝 **String Manipulation** - String printing, character counting, and text processing
 - 🔄 **Loop Constructions** - Various loop implementations and pattern generation
@@ -208,7 +208,7 @@ Assembly_Codes/
 │   ├── task.asm                 # General tasks
 │   └── task1.asm                # Initial task
 │
-└── 📊 Total: 55 Assembly Files    # Complete collection
+└── 📊 Total: 52 Assembly Files    # Complete collection
 ```
 
 ## 🤝 Contributing
