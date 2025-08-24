@@ -10,7 +10,7 @@ A comprehensive collection of Assembly language practical exercises and programs
 
 ## 🔗 Links
 
-- [📚 Documentation](#documentation)
+- [📚 Installation](#-installation)
 - [🐛 Issues](https://github.com/H0NEYP0T-466/Assembly_Codes/issues)
 - [🤝 Contributing](./CONTRIBUTING.md)
 - [⚖️ License](./LICENSE)
@@ -125,7 +125,7 @@ Pratical#X_task#Y.exe
 
 ## ✨ Features
 
-- 📚 **33 Practical Exercises** - Comprehensive collection covering all basic assembly concepts
+- 📚 **52 Assembly Programs** - Comprehensive collection covering all basic to advanced assembly concepts
 - 🔢 **Arithmetic Operations** - Addition, subtraction, multiplication with user input
 - 📝 **String Manipulation** - String printing, character counting, and text processing
 - 🔄 **Loop Constructions** - Various loop implementations and pattern generation
@@ -143,21 +143,72 @@ Assembly_Codes/
 ├── 📄 README.md                    # Project documentation
 ├── ⚖️ LICENSE                      # MIT License
 ├── 🤝 CONTRIBUTING.md              # Contribution guidelines
-├── 🧮 Pratical#1_task#1.asm       # Basic assembly structure
-├── 🧮 Pratical#1_task#2.asm       # Simple operations
-├── 📝 Pratical#3_task#1.asm       # String output operations
-├── 📝 Pratical#3_task#2.asm       # Multiple string handling
-├── 📝 Pratical#3_task#3.asm       # Advanced string operations
-├── 🔢 Pratical#6_task#2.asm       # Arithmetic - Subtraction
-├── 🔢 Pratical#7_task#1.asm       # Multiple input handling
-├── 🔢 Pratical#7_task#2.asm       # Addition operations
-├── 🔢 Pratical#7_task#3.asm       # Complex expressions
-├── 📊 Pratical#9_task#2.asm       # Character counting
-├── 🎨 Pratical#9_task#3.asm       # Pattern generation
-├── 🔄 Pratical#10_task#X.asm      # Loop constructions
-├── 🧮 Pratical#11_task#X.asm      # Advanced operations
-├── 📚 Pratical#12_task#X.asm      # Modular programming
-└── ... (additional practical files)
+│
+├── 🧮 Fundamental Concepts         # Basic Assembly Programming
+│   ├── Pratical#1_task#1.asm      # Basic assembly structure
+│   ├── Pratical#1_task#2.asm      # Simple operations
+│   ├── Pratical#3_task#1.asm      # String output operations
+│   ├── Pratical#3_task#2.asm      # Multiple string handling
+│   ├── Pratical#3_task#3.asm      # Advanced string operations
+│   ├── Pratical#4_task#1.asm      # Input/Output operations
+│   ├── Pratical#4_task#2.asm      # Character processing
+│   └── Pratical#4_task#3.asm      # Data manipulation
+│
+├── 🔢 Arithmetic Operations        # Mathematical Computations
+│   ├── Pratical#5_task#1.asm      # Basic arithmetic
+│   ├── Pratical#5_task#2.asm      # Multi-digit operations
+│   ├── Pratical#5_task#3.asm      # Arithmetic expressions
+│   ├── Pratical#6_task#1.asm      # Addition operations
+│   ├── Pratical#6_task#2.asm      # Subtraction operations
+│   ├── Pratical#6_task#3.asm      # Multiplication
+│   ├── Pratical#6_task#4.asm      # Complex calculations
+│   ├── Pratical#7_task#1.asm      # Multiple input handling
+│   ├── Pratical#7_task#2.asm      # Addition with user input
+│   └── Pratical#7_task#3.asm      # Expression evaluation (A=B+C-D*E)
+│
+├── 🔄 Loop & Control Structures    # Flow Control
+│   ├── Pratical#8_task#1.asm      # Basic loops
+│   ├── Pratical#8_task#2.asm      # Nested loops
+│   ├── Pratical#8_task#3.asm      # Conditional structures
+│   ├── Pratical#9_task#1.asm      # Pattern generation
+│   ├── Pratical#9_task#2.asm      # Character counting
+│   └── Pratical#9_task#3.asm      # Advanced patterns
+│
+├── 🎯 Advanced Programming         # Complex Operations
+│   ├── Pratical#10_task#1.asm     # Advanced loops
+│   ├── Pratical#10_task#2.asm     # String processing
+│   ├── Pratical#10_task#3.asm     # Data validation
+│   ├── Pratical#11_task#1.asm     # Procedure implementation
+│   ├── Pratical#11_task#2.asm     # Function calls
+│   ├── Pratical#11_task#3.asm     # Modular programming
+│   ├── Pratical#12_task#1.asm     # Advanced procedures
+│   ├── Pratical#12_task#2.asm     # Stack operations
+│   └── Pratical#12_task#3.asm     # Memory management
+│
+├── 📚 Additional Examples          # Supplementary Programs
+│   ├── add_two_numbers.asm        # Simple addition example
+│   ├── capital_small_small_capital.asm # Case conversion
+│   ├── coal_theory.asm            # Theoretical implementation
+│   ├── countdown.asm              # Countdown timer
+│   ├── div-2-3.asm               # Division operations
+│   ├── equal_greater_lesser.asm   # Comparison operations
+│   ├── even_odd.asm              # Even/odd determination
+│   ├── print_char.asm            # Character output
+│   ├── print_digit.asm           # Digit printing
+│   ├── print_string.asm          # String output
+│   └── space.asm                 # Spacing and formatting
+│
+├── 🧪 Practice Files              # Development Exercises
+│   ├── 29-jan-2025.asm          # Recent practice
+│   ├── 29-jan-205.asm           # Practice variations
+│   ├── 29-jan-25.asm            # Date-based exercises
+│   ├── class task.asm           # Classroom assignments
+│   ├── question_1.asm           # Problem set 1
+│   ├── question_2.asm           # Problem set 2
+│   ├── task.asm                 # General tasks
+│   └── task1.asm                # Initial task
+│
+└── 📊 Total: 52 Assembly Files    # Complete collection
 ```
 
 ## 🤝 Contributing
